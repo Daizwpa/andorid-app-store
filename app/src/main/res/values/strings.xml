@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">M-commerce</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">Welcome</string>
+
 </resources>
